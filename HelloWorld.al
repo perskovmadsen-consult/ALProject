@@ -10,7 +10,8 @@ pageextension 50100 CustomerListExt extends "Customer List"
     end;
 }
 
-//new line 1
+//new line 1  //TODO ret til 2 cifret tal
 
-//new line 2
-//new line 3
+//new line 2  //TODO læg to til værdi
+
+//new line 3  //TODO læg 1 til værdi
